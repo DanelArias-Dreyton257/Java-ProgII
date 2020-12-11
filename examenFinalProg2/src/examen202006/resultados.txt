@@ -1,0 +1,25 @@
+TAREA 2 - RESULTADO CON DATOS DE PRUEBA:
+
+NACIONAL:
+  Rollo de papel higiénico (NACIONAL) (0,82€) - compra de 5 unidades.
+  Tela de mascarilla (NACIONAL) (10,28€ por m2) - compra de 2,00 x 1,50 m.
+CHINA:
+  Paracetamol en polvo (CHINA) (58,75€ por kg.) - compra de 0,80 kg.
+  Paracetamol en polvo (CHINA) (58,75€ por kg.) - compra de 1,00 kg.
+  Rollo de papel higiénico (CHINA) (0,75€) - compra de 2 unidades.
+  Rollo de papel higiénico (CHINA) (0,75€) - compra de 10 unidades.
+ALEMANIA:
+  No hay ofertas vendidas.
+EEUU:
+  Paracetamol en polvo (EEUU) (61,25€ por kg.) - compra de 0,70 kg.
+  Paracetamol en polvo (EEUU) (61,25€ por kg.) - compra de 0,50 kg.
+  Tela de mascarilla (EEUU) (11,15€ por m2) - compra de 10,00 x 5,00 m.
+
+  
+TAREA 4 - PARTE 3
+Ventas a usuario andoni
+Mon Jun 01 00:00:00 CEST 2020 - 3 ofertas vendidas
+Wed Jun 03 00:00:00 CEST 2020 - 2 ofertas vendidas
+
+Ventas a usuario Itxaso
+Tue Jun 02 00:00:00 CEST 2020 - 4 ofertas vendidas
